@@ -1,3 +1,3 @@
 What is the weather today?
 
-It's quite gey in Cape Town
+It's quite grey in Cape Town
